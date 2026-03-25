@@ -8,6 +8,9 @@ Each cell in a 2D matrix represents a colored area. A **country** is defined as 
 
 ---
 
+<img width="1499" height="1102" alt="no of countries" src="https://github.com/user-attachments/assets/9fbc1a8f-f6f2-4a08-8a62-396200a1a7f4" />
+
+
 ## 🧠 Approach
 
 This solution uses **Breadth-First Search (BFS)** to identify and count connected components in the grid.
